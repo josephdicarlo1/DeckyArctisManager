@@ -1,7 +1,7 @@
 {
-  "name": "decky-plugin-template",
+  "name": "decky-arctis-manager",
   "version": "0.0.1",
-  "description": "A template to quickly create decky plugins from scratch, based on TypeScript and webpack",
+  "description": "Decky Loader QAM frontend for linux-arctis-manager (SteelSeries Arctis GameBuds)",
   "type": "module",
   "scripts": {
     "build": "rollup -c",
